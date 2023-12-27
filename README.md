@@ -13,3 +13,4 @@ This project aims to offer users a seamless experience in exploring the world of
 2. Explore the available options in the navigation bar.
 3. Check the current prices of Bitcoin, Ethereum, and Dogecoin.
 
+https://cryptohub360.netlify.app/
